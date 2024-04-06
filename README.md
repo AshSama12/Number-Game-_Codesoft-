@@ -1,6 +1,7 @@
 # codesoft
 First task of codesoft java programming internship- NUMBER GAME
 
+#Task01
  1. Generate a random number within a specified range, such as 1 to 100.
  2. Prompt the user to enter their guess for the generated number.
  3. Compare the user's guess with the generated number and provide feedback on whether the guess
@@ -11,7 +12,7 @@ First task of codesoft java programming internship- NUMBER GAME
  6. Add the option for multiple rounds, allowing the user to play again.
  7. Display the user's score, which can be based on the number of attempts taken or rounds won.
     
-
+#Task02
  2nd task of codesoft java programming internship-STUDENT GRADE CALCULATOR
  
  1. Input: Take marks obtained (out of 100) in each subject.
@@ -21,7 +22,7 @@ First task of codesoft java programming internship- NUMBER GAME
  4. Grade Calculation: Assign grades based on the average percentage achieved.
  5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
-
+#Task03
 3rd task of codesoft java programming internship-ATM INTERFACE
 
  1. Create a class to represent the ATM machine.
