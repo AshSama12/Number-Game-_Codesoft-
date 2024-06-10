@@ -12,6 +12,8 @@ The first task of the code soft java programming internship- NUMBER GAME
  5. Limit the number of attempts the user has to guess the number.
  6. Add the option for multiple rounds, allowing the user to play again.
  7. Display the user's score, which can be based on the number of attempts taken or rounds won.
+
+    #this is a simple video clip showing how it works.
     
 # Task02
  2nd task of code soft java programming internship-STUDENT GRADE CALCULATOR
