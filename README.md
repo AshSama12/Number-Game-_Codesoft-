@@ -13,7 +13,7 @@ The first task of the code soft java programming internship- NUMBER GAME
  6. Add the option for multiple rounds, allowing the user to play again.
  7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
-    #this is a simple video clip showing how it works.
+    # This is a simple video clip showing how it works.
     
 # Task02
  2nd task of code soft java programming internship-STUDENT GRADE CALCULATOR
@@ -24,6 +24,8 @@ The first task of the code soft java programming internship- NUMBER GAME
  average percentage.
  4. Grade Calculation: Assign grades based on the average percentage achieved.
  5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
+
+     # This is a simple video clip showing how it works.
 
 # Task03
 3rd task of code soft java programming internship-ATM INTERFACE
