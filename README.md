@@ -41,3 +41,5 @@ The first task of the code soft java programming internship- NUMBER GAME
  6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
  7. Display appropriate messages to the user based on their chosen options and the success or failure
  of their transactions.
+
+ # This is a simple video clip showing how it works.
