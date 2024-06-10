@@ -14,6 +14,7 @@ The first task of the code soft java programming internship- NUMBER GAME
  7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
     # This is a simple video clip showing how it works.
+    https://github.com/AshSama12/codesoft/assets/144650127/fe42b2f3-c6dc-4ced-82ce-dc87a61958ee
     
 # Task02
  2nd task of code soft java programming internship-STUDENT GRADE CALCULATOR
