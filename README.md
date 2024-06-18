@@ -27,6 +27,10 @@ The first task of the code soft java programming internship- NUMBER GAME
  5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
      # This is a simple video clip showing how it works.
+    
+https://github.com/AshSama12/codesoft/assets/144650127/772cf777-d28c-4a1a-b763-eb2a96e8520e
+
+
 
 # Task03
 3rd task of code soft java programming internship-ATM INTERFACE
